@@ -1,4 +1,10 @@
 # S&P 500 Trading Strategy Optimization Project
+## Authors ✨
+
+- **Jan Cichocki** - *Contributor*
+- **Bertrand Bading** - *Contributor*
+- **Krashawn Ray-el** - *Contributor*
+
 
 As a collective passionate about financial markets, we recognize the S&P 500 as a key barometer of the performance of 500 major companies listed on stock exchanges in the United States. Our project aims to explore and refine trading strategies that leverage this index, enhancing our understanding and effectiveness in market engagement.
 
