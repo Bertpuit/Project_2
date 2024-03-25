@@ -56,6 +56,10 @@ Our findings underscore the efficacy of SMA as the bedrock of our strategy, advo
 
 In synthesizing these indicators, we've charted a path to informed, strategic decision-making in the financial markets. Our project is a testament to the power of blending traditional indicators with cutting-edge machine learning techniques, paving the way for future explorations into the art and science of trading.
 
+![S&P 500 with RSI Markers](images/sp500_14_RSI_Markers.png)
+
+![S&P 500 with SMA 35/155](images/sp500_35_155.png)
+
 ## Conclusion 🎉
 
 Throughout this journey, our collective efforts have been dedicated to demystifying the complexities of trading strategies using the S&P 500 as our foundational metric. By employing a systematic approach to analyze Simple Moving Averages (SMA) and the Relative Strength Index (RSI), we've uncovered insights that refine our understanding of market dynamics. The utilization of the AdaBoost classifier further enhanced our strategy, enabling us to pinpoint the most effective combinations with precision.
