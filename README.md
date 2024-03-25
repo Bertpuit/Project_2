@@ -68,7 +68,7 @@ Explanation...
 
 Explanation...
 
-![S&P 500 with SMA 35/155](images/sp500_35_155.png)
+![S&P 500 with RSI Markers](images/sp500_14_RSI_Markers.png)
 
 ## Conclusion 🎉
 
