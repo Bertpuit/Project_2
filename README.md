@@ -10,6 +10,25 @@ As a collective passionate about financial markets, we recognize the S&P 500 as 
 
 [Check out our Main Python File!](https://github.com/jancichocki/Project_2/blob/main/main.ipynb)
 
+## Executive Summary
+
+In this project, our team embarked on an ambitious endeavor to optimize trading strategies using the S&P 500 index as our focal point. Our aim was to leverage technical analysis indicators, namely the Simple Moving Average (SMA) and the Relative Strength Index (RSI), to develop a nuanced understanding of market trends and dynamics. The project is rooted in our collective passion for financial markets and our commitment to harnessing machine learning to enhance trading effectiveness.
+
+### **Project Overview**
+
+The core of our project involved:
+- **Data Analysis**: Utilizing `yfinance` to extract 20 years of S&P 500 daily data, providing a rich dataset for analysis.
+- **SMA Strategy Optimization**: Through iterative testing, we identified optimal short and long SMA windows that serve as indicators for buy/sell signals, utilizing the AdaBoostClassifier for model training and evaluation.
+- **RSI Integration**: We incorporated RSI to our strategy, analyzing its slope for additional momentum insights, thereby refining our trading signals further.
+- **Visual Representation**: A comprehensive graphical analysis was conducted to visualize the effectiveness of our optimized SMA strategy, complemented by RSI insights, in navigating the S&P 500.
+
+### **Key Findings**
+
+Our findings reveal that:
+- **SMA Crossover**: The SMA crossover strategy, when optimized, can serve as a robust indicator for generating trading signals.
+- **RSI Value**: The incorporation of RSI, particularly its slope, enhances the signal strategy by providing momentum-based insights, allowing for more informed trading decisions.
+- **Machine Learning Efficacy**: The application of the AdaBoostClassifier significantly contributes to the refinement of the trading strategy, underscoring the value of machine learning in financial analysis.
+
 ## The Significance of the S&P 500
 
 ### A Comprehensive Market Snapshot
