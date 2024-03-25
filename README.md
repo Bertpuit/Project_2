@@ -56,7 +56,15 @@ Our findings underscore the efficacy of SMA as the bedrock of our strategy, advo
 
 In synthesizing these indicators, we've charted a path to informed, strategic decision-making in the financial markets. Our project is a testament to the power of blending traditional indicators with cutting-edge machine learning techniques, paving the way for future explorations into the art and science of trading.
 
+## Findings
+
+### Simple Moving Averages (SMA) 📈
+
+Explanation...
+
 ![S&P 500 with RSI Markers](images/sp500_14_RSI_Markers.png)
+
+### Simple Moving Averages (SMA) With RSI Signals 📈
 
 ![S&P 500 with SMA 35/155](images/sp500_35_155.png)
 
