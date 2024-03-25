@@ -62,7 +62,9 @@ In synthesizing these indicators, we've charted a path to informed, strategic de
 
 Explanation...
 
-![S&P 500 with RSI Markers](images/sp500_14_RSI_Markers.png)
+### Simple Moving Averages (SMA) With RSI Signals 📈
+
+![S&P 500 with SMA 35/155](images/sp500_35_155.png)
 
 ### Simple Moving Averages (SMA) With RSI Signals 📈
 
