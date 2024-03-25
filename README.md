@@ -2,7 +2,7 @@
 
 As a collective passionate about financial markets, we recognize the S&P 500 as a key barometer of the performance of 500 major companies listed on stock exchanges in the United States. Our project aims to explore and refine trading strategies that leverage this index, enhancing our understanding and effectiveness in market engagement.
 
-[Check out my Main Python File!](https://github.com/jancichocki/Project_2/blob/main/main.ipynb)
+[Check out our Main Python File!](https://github.com/jancichocki/Project_2/blob/main/main.ipynb)
 
 ## The Significance of the S&P 500
 
