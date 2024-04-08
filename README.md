@@ -92,7 +92,7 @@ In synthesizing these indicators, we've charted a path to informed, strategic de
 ### **Enhancing Strategy with RSI**
 1. **RSI Calculation**: In addition to SMA, the Relative Strength Index (RSI) is calculated to gauge the momentum and identify overbought or oversold conditions.
 2. **RSI Slope Analysis**: Calculates the slope of the RSI over recent periods to capture the momentum trend, providing an additional layer of analysis for making trading decisions.
-3. **Combined Signal Strategy**: Develops a strategy that considers both SMA crossover signals and RSI conditions (including its slope) to refine the trading signals further. This combined approach aims to optimize entry and exit points by leveraging both price trends and momentum indicators.  Our model found adding a 14 day RSI was gave us the best return results.
+3. **Combined Signal Strategy**: Develops a strategy that considers both SMA crossover signals and RSI conditions (including its slope) to refine the trading signals further. This combined approach aims to optimize entry and exit points by leveraging both price trends and momentum indicators.  Our model found adding a 14 day RSI gave us the best return results.
 
 ![S&P 500 with RSI Markers](images/sp500_14_RSI_Markers.png)
 
